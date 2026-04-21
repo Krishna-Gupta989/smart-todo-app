@@ -1,0 +1,38 @@
+# Node modules (both frontend & backend)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Uploads (backend)
+backend/uploads/
+
+# Optional: IDE files
+.vscode/
+.idea/
+
+# Package lock (optional)
+package-lock.json
+
+# Coverage
+coverage/
+
+# Temp files
+tmp/
+temp/
