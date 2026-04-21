@@ -65,16 +65,7 @@ npm run dev
 ```
 Frontend will run on: http://localhost:5173
 
-🌐 API Endpoints
-POST /add → Add a new task
-GET /tasks → Fetch all tasks
-DELETE /delete/:id → Delete a task
 
-🚀 Future Improvements
-🔐 User Authentication (Login/Signup)
-🧠 AI-based task priority system
-📅 Task deadlines & reminders
-☁️ Cloud storage for uploaded files
 🙌 Author
 
 Krishna Gupta
